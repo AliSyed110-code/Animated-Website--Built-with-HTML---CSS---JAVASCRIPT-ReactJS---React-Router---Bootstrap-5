@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https://github.com/AliSyed110-code/Animated-Website--Built-with-HTML---CSS---JAVASCRIPT-ReactJS---React-Router---Bootstrap-5/static/css/main.b4dd8107.css",
+    "main.js": "/https://github.com/AliSyed110-code/Animated-Website--Built-with-HTML---CSS---JAVASCRIPT-ReactJS---React-Router---Bootstrap-5/static/js/main.fd479614.js",
+    "static/media/Digital.jpg": "/https://github.com/AliSyed110-code/Animated-Website--Built-with-HTML---CSS---JAVASCRIPT-ReactJS---React-Router---Bootstrap-5/static/media/Digital.062c2039d40797e1c581.jpg",
+    "static/media/Marketing.jpg": "/https://github.com/AliSyed110-code/Animated-Website--Built-with-HTML---CSS---JAVASCRIPT-ReactJS---React-Router---Bootstrap-5/static/media/Marketing.01e4bf926c75d7fa3b51.jpg",
+    "static/media/web.jpg": "/https://github.com/AliSyed110-code/Animated-Website--Built-with-HTML---CSS---JAVASCRIPT-ReactJS---React-Router---Bootstrap-5/static/media/web.7fd333fc5d5a3a65c517.jpg",
+    "static/media/Android.jpg": "/https://github.com/AliSyed110-code/Animated-Website--Built-with-HTML---CSS---JAVASCRIPT-ReactJS---React-Router---Bootstrap-5/static/media/Android.10415744af63cfffdcf2.jpg",
+    "static/media/Software.jpg": "/https://github.com/AliSyed110-code/Animated-Website--Built-with-HTML---CSS---JAVASCRIPT-ReactJS---React-Router---Bootstrap-5/static/media/Software.081d8fa663182f2716f1.jpg",
+    "static/media/App.jpg": "/https://github.com/AliSyed110-code/Animated-Website--Built-with-HTML---CSS---JAVASCRIPT-ReactJS---React-Router---Bootstrap-5/static/media/App.7b24632f135d7b4a9271.jpg",
+    "static/media/img2.jpg": "/https://github.com/AliSyed110-code/Animated-Website--Built-with-HTML---CSS---JAVASCRIPT-ReactJS---React-Router---Bootstrap-5/static/media/img2.50f09ea6c036af632929.jpg",
+    "static/media/img1.svg": "/https://github.com/AliSyed110-code/Animated-Website--Built-with-HTML---CSS---JAVASCRIPT-ReactJS---React-Router---Bootstrap-5/static/media/img1.a047ef526e50b8527cdabc7b9c209d70.svg",
+    "static/media/AboutUS.svg": "/https://github.com/AliSyed110-code/Animated-Website--Built-with-HTML---CSS---JAVASCRIPT-ReactJS---React-Router---Bootstrap-5/static/media/AboutUS.42f4e8a554a84fdcbda087d1c75ef507.svg",
+    "index.html": "/https://github.com/AliSyed110-code/Animated-Website--Built-with-HTML---CSS---JAVASCRIPT-ReactJS---React-Router---Bootstrap-5/index.html",
+    "main.b4dd8107.css.map": "/https://github.com/AliSyed110-code/Animated-Website--Built-with-HTML---CSS---JAVASCRIPT-ReactJS---React-Router---Bootstrap-5/static/css/main.b4dd8107.css.map",
+    "main.fd479614.js.map": "/https://github.com/AliSyed110-code/Animated-Website--Built-with-HTML---CSS---JAVASCRIPT-ReactJS---React-Router---Bootstrap-5/static/js/main.fd479614.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4dd8107.css",
+    "static/js/main.fd479614.js"
+  ]
+}
